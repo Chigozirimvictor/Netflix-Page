@@ -302,6 +302,9 @@
     .image-2>div{
         /* overflow: scroll;     */
     }
+    .image-3{
+        width: 200%;
+    }
     .footer{
         width: 100%;
         display: flex;
@@ -316,7 +319,9 @@
         display: block;
         justify-content: center;
         align-items: flex-start;
-        margin-right: 0.5rem;
+        /* margin-right: 0.6rem; */
+        margin: 0.3rem;
+        
     }
     link >li{
         display: block;
@@ -324,10 +329,13 @@
         width: 50%;
     }
     
+    .link-repo{
+        display: none;
+    }
     .kadu{
         width: 7rem;
         position: relative;
         position: left;
-        left: -7rem;
+        left: -9rem;
     }
 }
