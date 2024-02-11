@@ -101,7 +101,7 @@ a{
 
 @media (max-width: 800px) {
     .Housing-all{
-        /* width:  50vh; */
+        width:  100%;
         height: fit-content;
         overflow: hidden;
     }
@@ -115,7 +115,7 @@ a{
         align-items: center;
         width: fit-content;
         height: fit-content;
-        margin-left: -10rem;
+        margin-left: -17rem;
          /* position: relative; */
         /* right: 24rem; */
     }
@@ -134,7 +134,7 @@ a{
 
     .yonet{
         display: flex;
-        margin-left: 10rem;
+        margin-left: 5rem;
         margin-top: 2rem;
         width: 15rem;
         justify-content: center;
