@@ -135,21 +135,21 @@ a{
         overflow: hidden;
         position: relative;
         justify-content: center;
-        /* width: 100%; */
+        width: 100%;
     }
     .first-div{
         display: block;
         justify-content: center;
         width: 80%;
         position: relative;
-        right: 500px;
+        right: 530px;
         align-items: center;
 
     }
     .sign{
         display: block;
         justify-content: center;
-        margin-left: 6.5rem;
+        margin-left: 4rem;
         
     }
 
@@ -158,9 +158,9 @@ a{
         justify-content: center;
         position: relative;
         justify-content: center;
-        left: 50px;
+        left: 35px;
         width: 70%;
-        /* padding-left: 2rem; */
+        /* ma-left: 2rem; */
     }
     .email{
         width: 90%;
@@ -190,14 +190,40 @@ a{
     }
     .Remember{
         display: flex;
+        justify-content: center;
+
         
     }
-
-    .last-div{
-        height: 34%;
-        overflow: hidden;
+    .me{
+        width: 500px;
     }
 
+    
+    .Facebook{
+        width: 100%;
+        display: block;
+        justify-content: center;
+        margin-left: -2rem;
+    }
+
+    .New{
+        width: 100%;
+        display: block;
+        justify-content: center;
+        margin-left: -2rem;
+
+    }
+    .page{
+        width: 100%;
+        display: block;
+        justify-content: center;
+        margin-left: -2rem;
+    }
+    .last-div{
+        height: 40%;
+        overflow: hidden;
+        padding: 2rem;
+    }
     .Eng{
         width: 5rem;
     }
