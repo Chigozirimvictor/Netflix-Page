@@ -100,6 +100,8 @@ a{
 }
 
 @media (max-width: 800px) {
+   
+    
     .Housing-all{
         width:  100%;
         height: fit-content;

@@ -261,6 +261,11 @@
     }
 }
 @media (max-width:600px) {
+    
+    .Background-image{
+        background-position: center;
+        background-size: cover;
+    }
     .Full-Housing{
         overflow: hidden;
     }
