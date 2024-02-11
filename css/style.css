@@ -314,8 +314,10 @@ footer>div{
 
 @media (max-width: 600px) {
     .first-background{
-        /* display: block; */
+        display: block;
         justify-content: center;
+        width: 100%;
+        height: 90vh;
     }
     .logo-2{
     width: 40%;
@@ -326,6 +328,10 @@ footer>div{
         display: flex;
         justify-content: center;
         flex-flow: row nowrap;
+        padding-left: 2rem;
+    }
+    .more{
+        padding-left: 2rem;
     }
     .watch{
         display: flex;
@@ -439,8 +445,7 @@ footer>div{
      }
 
      .fifth-div{
-        display: block;
-        padding-right: 5rem;
+        /* padding-right: 5rem; */
         width: 100%;
         height: 200%;
         overflow: hidden;
@@ -452,10 +457,31 @@ footer>div{
         /* margin-left: 3rem; */
        
      }
+     .Questions{
+        font-size: 12px;
+     }
      .NetFlix{
-        width: 80%;
+        width: 100%;
+        /* margin-left:/ rem; */
+     }
+     .register{
+        display: block;
+        width: 70%;
+        justify-content: center;
+        margin-left: 2rem;
+     }
+     .address{
+        display: block;
+        justify-content: center;
+        width: 100%;
+     }
+     .email{
+        margin-left: 2rem;
+     }
+     .search{
         margin-left: 5rem;
      }
+
      .Eng{
         width: 30%;
      }
