@@ -212,7 +212,7 @@
         display: block;
         align-items: flex-end;
         position: relative;
-        left: 80%;
+        left: 70%;
         padding-top: 0.5rem;
     }
     .toggle-button{
@@ -272,6 +272,13 @@
     .Background-image{
         display: block;
         justify-content: center;
+    } 
+    .yanimda{
+        width: 100%;
+        display: block;
+    }
+    .bugun{
+        color: chocolate;
     }
     .Lorem{
         width: 100%;
